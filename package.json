@@ -13,7 +13,7 @@
     "element-ui": "^2.10.1",
     "express": "^4.17.1",
     "mockjs": "^1.0.1-beta3",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "rate-ball": "^1.0.9",
     "vue": "^2.5.2",
     "vue-resource": "^1.5.1",
